@@ -1,0 +1,9 @@
+fork_index,base_fork_surface_area,fabrication_fork_surface_area,fabrication_fork_flank_milling_time_roughing_A,fabrication_fork_flank_milling_time_roughing_B,fabrication_fork_flank_milling_time_finishing_A,fabrication_fork_flank_milling_time_finishing_B,fabrication_fork_layer_based_milling_time_roughing_A,fabrication_fork_layer_basedmilling_time_roughing_B,fabrication_fork_layer_basedmilling_time_finishing_A,fabrication_fork_layer_based_milling_time_finishing_B,base_fork_layer_based_milling_time_roughing_A,base_fork_layer_basedmilling_time_roughing_B,base_fork_layer_basedmilling_time_finishing_A,base_fork_layer_based_milling_time_finishing_B
+0,109412,97510,"60,58","36,77","1,83","2,72","37,24","51,72","52,74","50,71","38,37","50,32","57,01","60,17"
+1,119658,107650,"34,15","32,1","2,04","2,28","21,66","25,12","42,87","44,26","24,23","21,91","51,55","51,75"
+2,96254,86232,"58,76","31,78","2,21","1,91","38,58","27,72","57,47","54,84","41,88","34,69","64,75","61,5"
+3,105039,94422,"31,69","22,49","1,96","1,96","35,32","20,52","52,56","50,57","37,44","19,3","59,59","54,61"
+4,105826,93985,"23,07","31,96","1,97","2,49","20,71","25,79","54,46","50,56","21,8","26,37","57,87","57,23"
+5,108272,96087,"33,39","27,94","2,13","2,1","25,85","22,59","43,43","38,69","26,31","23,56","47,65","47,41"
+6,126347,113112,"24,62","23,87","1,59","1,87","29,5","20,64","51,59","45,98","28,6","21,51","57,39","51,59"
+7,96238,86420,"37,39","32,01","1,95","2,52","26,6","26,54","48,97","46,48","26,44","21,93","54,61","53,25"
